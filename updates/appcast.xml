@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Sketch - SelectPlus</title>
+    <link>https://raw.githubusercontent.com/nathan5x/Sketch-SelectPlus/master/appcast.xml</link>
+    <description>Your selector engine for Sketch.</description>
+    <language>en</language>
+    <item>
+      <title>Version 0.1.1</title>
+      <description>
+        <![CDATA[
+          <ul>
+            <li>Initial release with all the basic selectors.</li>
+          </ul>
+        ]]>
+      </description>
+      <enclosure url="https://github.com/nathan5x/Sketch-SelectPlus/archive/master.zip" sparkle:version="0.1.1" />
+    </item>
+    <item>
+      <title>Version 1.0.0</title>
+      <description>
+        <![CDATA[
+          <ul>
+            <li>Major update 1.0.0</li>
+            <li>Included new style selectors</li>
+          </ul>
+        ]]>
+      </description>
+      <enclosure url="https://github.com/nathan5x/Sketch-SelectPlus/archive/master.zip" sparkle:version="1.0.0" />
+    </item>
+  </channel>
+</rss>
